@@ -1,0 +1,17 @@
+{
+  "name": "meditation-guide",
+  "version": "1.0.0",
+  "description": "引导冥想、呼吸练习、放松音乐 | Nexa Claw - https://nexaclaw.cn/",
+  "author": {
+    "name": "Nexa Claw",
+    "email": "nexaclaw@outlook.com",
+    "url": "https://nexaclaw.cn/"
+  },
+  "homepage": "https://nexaclaw.cn/",
+  "license": "MIT",
+  "keywords": ["meditation-guide", "Nexa Claw", "AI", "automation"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nexaclaw/meditation-guide"
+  }
+}
