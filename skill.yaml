@@ -1,0 +1,18 @@
+skill:
+  id: meditation-guide
+  name: 🧘 冥想助手
+  version: "1.0.0"
+  
+description: |
+  引导冥想、呼吸练习、放松音乐
+  
+  Powered by Nexa Claw - https://nexaclaw.cn/
+
+trigger_phrases:
+  - meditation-guide
+  - 🧘 冥想助手
+
+metadata:
+  author: Nexa Claw
+  website: https://nexaclaw.cn/
+  email: nexaclaw@outlook.com
